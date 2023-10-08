@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+```js
+const hyperionchars = {
+pronouns: "he" | "him",
+code: [java, javascript, HTML, CSS},
+tools: [React & Docker to futur];
+}
+```
+
+
 <!--
 **hyperionchars/hyperionchars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
